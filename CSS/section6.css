@@ -1,0 +1,66 @@
+.section6-rap {
+  background-color: white;
+}
+.section6-div {
+  width: 82%;
+  margin: 0 auto;
+  background-color: white;
+  padding: 75px 0;
+  padding-bottom: 50px;
+}
+.section6-p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.09px;
+  margin-top: 20px;
+}
+.color-red {
+  color: #c54455;
+}
+.section6-box {
+  display: flex;
+  margin-bottom: 0;
+}
+
+.column {
+  padding: 10px;
+  flex-grow: 1;
+  text-align: center;
+  margin: 20px 0;
+  margin-bottom: 0;
+}
+
+.small {
+  flex-basis: 25%;
+}
+
+.medium {
+  flex-basis: 50%;
+}
+
+.row {
+  height: 150px;
+  background-color: #f5f5f7;
+  margin-bottom: 40px;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+iframe {
+  width: 500px;
+  height: 340px;
+  border-radius: 25px;
+  color: black;
+}
+.section6-h3 {
+  font-size: 36px;
+  font-weight: 600;
+}
+.section6-p {
+  font-size: 20px;
+}
+.section6-btn {
+  margin-top: 0;
+}

@@ -1,0 +1,35 @@
+.section5-h2 {
+  padding-top: 75px;
+}
+.section5 {
+  padding-bottom: 50px;
+}
+.section5-p {
+  color: #1d1d1f;
+  font-family: "Vietnam", Sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.09px;
+  padding-top: 20px;
+}
+.section-5-item1 {
+  height: 400px;
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0.75) 73%,
+      #000000 100%
+    ),
+    url(https://www.hersecondinnings.com/wp-content/uploads/2022/09/empp2.jpeg);
+}
+.section-5-item2 {
+  height: 400px;
+
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0.75) 73%,
+      #000000 100%
+    ),
+    url(https://www.hersecondinnings.com/wp-content/uploads/2022/10/IT-WA-Group.jpg);
+}
